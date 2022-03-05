@@ -1,0 +1,31 @@
+
+body {
+    background-color: #8bc5cd;
+}
+
+.title {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+
+}
+
+.main-search {
+    text-align: center;
+}
+
+.restaurant-suggestions {
+    text-align: center;􀈂
+    margin-top: 50px;
+}
+
+.card-img-top {
+    width: 15%;
+    height: auto;
+}
+
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
